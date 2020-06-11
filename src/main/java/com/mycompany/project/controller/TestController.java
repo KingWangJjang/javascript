@@ -9,5 +9,9 @@ public class TestController {
 	public void method2() {
 		
 	}
+	
+	public void method2() {
+		
+	}
 
 }
